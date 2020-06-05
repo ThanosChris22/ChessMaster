@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ChessMaster\ChessMaster\bin\Debug\ChessMaster.exe.config
+C:\Users\User\source\repos\ChessMaster\ChessMaster\bin\Debug\ChessMaster.exe
+C:\Users\User\source\repos\ChessMaster\ChessMaster\bin\Debug\ChessMaster.pdb
+C:\Users\User\source\repos\ChessMaster\ChessMaster\obj\Debug\ChessMaster.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ChessMaster\ChessMaster\obj\Debug\ChessMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ChessMaster\ChessMaster\obj\Debug\ChessMaster.exe
+C:\Users\User\source\repos\ChessMaster\ChessMaster\obj\Debug\ChessMaster.pdb
